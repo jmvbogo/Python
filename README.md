@@ -11,9 +11,11 @@
 > - Exception Handling
 > - File Operations
 > - String Functions
-# PythonAdvanced covers more intermediate topics. (work in progress)
+# PythonAdvanced covers more intermediate topics.
 > - Classes and Objects
 > - Multithreading
 > - Queues
 > - Network Programming
-> - Database Programming
+> - Database Programming w/ SQL
+> - XML Processing
+> - Logging
