@@ -19,3 +19,4 @@
 > - Database Programming w/ SQL
 > - XML Processing
 > - Logging
+> - Regular Expressions
