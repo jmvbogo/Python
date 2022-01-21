@@ -20,3 +20,6 @@
 > - XML Processing
 > - Logging
 > - Regular Expressions
+#Python Data Science
+> - NumPy Arrays
+> -
