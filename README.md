@@ -26,5 +26,5 @@ Covers more intermediate topics.
 Covers advanced arrays and lists, professional data visualization, statistical analysis and advanced data science with data frames.
 > - NumPy Arrays
 > - MatPlotLib Diagrams
-> -
+> - MatplotLib Plot Types
 > -
