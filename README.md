@@ -27,4 +27,5 @@ Covers advanced arrays and lists, professional data visualization, statistical a
 > - NumPy Arrays
 > - MatPlotLib Diagrams
 > - MatplotLib Plot Types
-> -
+> - Pandas Data Analysis
+
