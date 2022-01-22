@@ -1,5 +1,6 @@
 # Python
-# Python101 covers basic Python concepts.
+# Python101 
+Covers basic Python concepts.
 > - Hello Python!
 > - Variables and Data Types
 > - Operators
@@ -11,7 +12,8 @@
 > - Exception Handling
 > - File Operations
 > - String Functions
-# PythonAdvanced covers more intermediate topics.
+# PythonAdvanced 
+Covers more intermediate topics.
 > - Classes and Objects
 > - Multithreading
 > - Queues
@@ -20,7 +22,8 @@
 > - XML Processing
 > - Logging
 > - Regular Expressions
-# Python Data Science
+# PythonDataScience
+Covers advanced arrays and lists, professional data visualization, statistical analysis and advanced data science with data frames.
 > - NumPy Arrays
 > -
 > -
