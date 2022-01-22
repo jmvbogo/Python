@@ -25,6 +25,6 @@ Covers more intermediate topics.
 # PythonDataScience
 Covers advanced arrays and lists, professional data visualization, statistical analysis and advanced data science with data frames.
 > - NumPy Arrays
-> -MatPlotLib Diagrams
+> - MatPlotLib Diagrams
 > -
 > -
