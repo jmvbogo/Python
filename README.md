@@ -28,4 +28,11 @@ Covers advanced arrays and lists, professional data visualization, statistical a
 > - MatPlotLib Diagrams
 > - MatplotLib Plot Types
 > - Pandas Data Analysis
+# PythonMachineLearning
+> - Linear Regression
+> - Classification
+> -
+> -
+> -
+> -
 
