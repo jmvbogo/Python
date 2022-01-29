@@ -31,8 +31,8 @@ Covers advanced arrays and lists, professional data visualization, statistical a
 # PythonMachineLearning
 > - Linear Regression
 > - Classification
-> -
-> -
+> - Support Vector Machines
+> - Clustering
 > -
 > -
 
