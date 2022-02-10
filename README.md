@@ -1,4 +1,6 @@
 # Python
+# Python Playground
+> - Projects to play around with using Python
 # Python101 
 Covers basic Python concepts.
 > - Hello Python!
