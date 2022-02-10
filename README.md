@@ -33,6 +33,6 @@ Covers advanced arrays and lists, professional data visualization, statistical a
 > - Classification
 > - Support Vector Machines
 > - Clustering
-> -
+> - Neural Networks
 > -
 
